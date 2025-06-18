@@ -1,5 +1,5 @@
 # ESO Simple Backup
-
+# discord.gg/BgSfnwPUXq
 Simple 1-click PowerShell script to back up Elder Scrolls Online configuration files.
 
 ## 💾 What it backs up
