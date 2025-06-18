@@ -1,4 +1,5 @@
 # backup_to_archive.ps1
+# discord.gg/BgSfnwPUXq
 # Create backup with 7z
 
 # Is 7z available
